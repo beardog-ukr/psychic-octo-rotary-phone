@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ssss.org/</loc>
+    <lastmod>2019-09-21T13:08:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ssss.org/posts.html</loc>
+    <lastmod>2019-09-21T13:08:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ssss.org/posts/sp.html</loc>
+    <lastmod>2019-09-21T13:08:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ssss.org/categories.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://ssss.org/tags/fff.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://ssss.org/posts/fp.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://ssss.org/tags/ppppp.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://ssss.org/tags.html</loc>
+  </url>
+  
+</urlset>

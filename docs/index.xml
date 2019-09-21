@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boo Vee ss</title>
+    <link>http://ssss.org/</link>
+    <description>Recent content on Boo Vee ss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Sep 2019 13:08:39 +0300</lastBuildDate>
+    
+	<atom:link href="http://ssss.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second First Post</title>
+      <link>http://ssss.org/posts/sp.html</link>
+      <pubDate>Sat, 21 Sep 2019 13:08:39 +0300</pubDate>
+      
+      <guid>http://ssss.org/posts/sp.html</guid>
+      <description>Add custom metadata to a Taxonomy Term If you need to add custom metadata to your taxonomy terms, you will need to create a page for that term at /content/&amp;lt;TAXONOMY&amp;gt;/&amp;lt;TERM&amp;gt;/_index.md and add your metadata in it’s front matter. Continuing with our ‘Actors’ example, let’s say you want to add a wikipedia page link to each actor. Your terms pages would be something like this:</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://ssss.org/posts/fp.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ssss.org/posts/fp.html</guid>
+      <description>Since the inception of this blog, I’ve wanted to add “tags” to my posts. Readers could then browse a list of related posts based on a specific tag. Using Hugo’s nifty taxonomies feature, I was able to easily built out that functionality.</description>
+    </item>
+    
+  </channel>
+</rss>
